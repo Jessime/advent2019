@@ -22,3 +22,7 @@
 2774842847744
 ./fuel2  68.71s user 0.37s system 99% cpu 1:09.15 total
 ```
+
+## Notes
+
+This is probably rate limited by I/O, so I don't know how interesting it is.
