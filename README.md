@@ -43,7 +43,7 @@ Copyright (c) 2006-2019 by Andreas Rumpf
 
 ## Summary
 
-| Day | Python (s) | Nim (s) |
-| --- | ------ | ------- |
-| 1  | 192.17  | 68.71 |
-| 2 | asdf  | asdf |
+| Day | Python (s) | Nim (s) | Speedup (x) |
+| --- | ------ | ------- | ----------- |
+| 1  | 192.17  | 68.71 | 2.8 |
+| 2 | 44.91  | 1.43 | 31.4 |
